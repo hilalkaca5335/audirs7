@@ -30,3 +30,7 @@
 .topnav-right {
   float: right;
 }
+img {
+    height:vh;
+    width: 100%;
+}
